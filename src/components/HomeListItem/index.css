@@ -1,0 +1,31 @@
+li {
+  list-style-type: none;
+  width: 300px;
+  margin: 10px;
+}
+.thumbnail-url {
+  width: 250px;
+}
+.flex-con {
+  display: flex;
+}
+.channel-logo {
+  width: 30px;
+  height: 20%;
+
+  margin: 20px;
+}
+.channel-head {
+  font-size: 20px;
+  font-weight: 500;
+}
+.view-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+}
+.dot-icon{
+  font-size: 30px;
+}
